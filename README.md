@@ -1,12 +1,14 @@
 # recriando-pagina-inicial-instagram
-Reconstruindo a página de login do Instagram, usando o  CSS com Flexbox.
+
+## Reconstruindo a página de login do Instagram, usando o  CSS com Flexbox.
 
 
-# Desafio-Dio.me
-## _Recriando a página inicial do instagram_
+### Desafio-Dio.me
+
+### _Recriando a página inicial do instagram_
 
 
-## Nesse projeto o desafio foi de reconstruir a página de login do Instagram.É o meu primeiro projeto utilizando CSS com Flexbox. Usei a página do Instagram da minha cachorra Safira.
+### Nesse projeto o desafio foi de reconstruir a página de login do Instagram.É o meu primeiro projeto utilizando CSS com Flexbox. Usei a página do Instagram da minha cachorra Safira.
 
 
 
